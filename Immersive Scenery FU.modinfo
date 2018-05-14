@@ -1,0 +1,12 @@
+{
+  "name" : "Immersive Scenery FU",
+  "version" : "",
+  "path" : ".",
+"includes" : ["FrackinUniverse"],
+  "dependencies" : [],
+  "metadata": {
+    "author" : "",
+    "description" : "Adds more scenery To FU.",
+    "support_url" : ""
+  }
+}

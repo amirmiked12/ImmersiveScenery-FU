@@ -1,0 +1,292 @@
+//bush
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "cutomsnowbusherpacker1" ], 
+            [0.35, "newpackersowrs2" ], 
+            [0.35, "purplevarsnopwmcvarioafer" ], 
+            [0.35, "redsnowmcfernvarred" ], 
+            [0.35, "snowbushernewpacker1" ],
+			[0.35, "snowbushimsn" ],
+			[0.35, "snowbushimsn1" ],
+			[0.35, "snowbushimsn2" ],
+			[0.35, "snowbushimsn3" ],
+			[0.35, "snowbushimsn4" ],
+			[0.35, "snowdarkervaramira" ],
+			[0.35, "snowfernermikerwood" ],
+			[0.35, "snowferngrenvarmc" ],
+			[0.35, "yellowvarmcsnowfernmc" ],
+			[0.35, "browngrasslfimsnoerss" ],
+			[0.35, "grassbrighgimssnoer" ],
+			[0.35, "grassimsgrennsnoer" ],
+			[0.35, "grassyellowimssnoers" ],
+			[0.35, "greenbrightbigims4snower" ],
+			[0.35, "greengrassbignims3snowyer" ],
+			[0.35, "newdetailedwgwood3snoerw" ],
+			[0.35, "orangebigrassimsn5snower" ],
+			[0.35, "pruplegrassbimssnoer" ],
+			[0.35, "redgrassbgimsn1snowerrpng" ],
+			[0.35, "redgrassleafimssnoers" ],
+			[0.35, "smallsaplingdarkbationsnoer" ],
+			[0.35, "smallsaplingmcvarionsnoert" ],
+			[0.35, "smallsaplingvarion2snoer" ],
+			[0.35, "smallsaplingvarion3snoer" ],
+			[0.35, "smmalfernpackerbush1brownsnow" ],
+			[0.35, "smmalfernpackerbush1darkersnow" ],
+			[0.35, "smmalfernpackerbush1deserrtsnow" ],
+			[0.35, "smmalfernpackerbush1orangesnow" ],
+			[0.35, "smmalfernpackerbush1purplesnow" ],
+			[0.35, "smmalfernpackerbushsnow1" ],
+			[0.35, "smmalfernpackerbushyellow1snow" ],
+			[0.35, "yellowbiggrassnims6snower" ],
+			[0.35, "newrootersbuhsimssnow1" ],
+			[0.35, "bushims71snow" ],
+			[0.35, "buhsoms55s6nowv1" ],
+			[0.35, "buhsoms55snowv1" ],
+			[0.35, "bushims72snow" ],
+			[0.35, "bushims57snowv1" ],
+			[0.35, "bushims58snowv1" ],
+			[0.35, "bushims146snow" ],
+			[0.35, "bushims147snow" ],
+			[0.35, "bushims148snow" ],
+			[0.35, "bushims59snowv1" ],
+			[0.35, "bushimssnow55v" ],
+			[0.35, "newluhsbuhspurple1snow" ],
+			[0.35, "orangenewlushbuhs1snow" ],
+			[0.35, "bushsnowgervar2" ],
+			[0.35, "buhsimsgerderimssnova" ],
+			[0.35, "newhugebihsiushisnow" ],
+			[0.35, "newyelloeluhsbuhssnow" ],
+			[0.35, "newnewonesnowims1" ],
+			[0.35, "newdarklushbushredsnow" ],
+			[0.35, "buhsimssnownewims12" ],
+			[0.35, "roujndbushsnowverim1" ],
+			[0.35, "rounduhssnowverimws2" ],
+			[0.35, "newdarklushbushsnow" ],
+			[0.35, "buhsimssnowlogvar2" ],
+			[0.35, "buhsimssnowroundbush1" ],
+			[0.35, "buhsimskajsniowvar1" ],
+			[0.35, "buhsimssnowlogvar" ],
+			[0.35, "bysgimssnow56v3" ],
+			[0.35, "bysgimssnow56v2" ],
+			[0.35, "bysgimssnow56v1" ],
+			[0.35, "buhssnowvardiuble1" ],
+			[0.35, "bushsnowtyvartms" ],
+			[0.35, "bushgerdsnowvar2" ],
+			[0.35, "bushimsgerd2varsn" ],
+			[0.35, "bushdulbemsnowvar1" ],
+			[0.35, "doublwebushsnowvar1" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//stone
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "bigmcrockersnowvarioan" ],
+			[0.35, "meduimrockerboidlermcvarsnow" ],
+			[0.35, "snowstne2ims" ],
+			[0.35, "snowstone1ims" ],
+			[0.35, "snowstone3ims" ],
+			[0.35, "snowstone4ims" ],
+			[0.35, "snowstone5ims" ],
+			[0.35, "snowrockermcvariosmall" ],
+			[0.35, "snowstone6ims" ],
+			[0.35, "newrokcberoikd1snowed" ],
+			[0.35, "newstoneackims3snowed" ],
+			[0.35, "newstonemakeerms2snow" ],
+			[0.35, "newstonesmakkimnssnowed1" ],
+			[0.35, "newtreedoublestomnesnowverims" ],
+			[0.35, "stone5imssnoedversioims1" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//wood
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "bigasstrunermcerbornwre" ],
+			[0.35, "bigasstrunermcerbornwrevined1" ],
+			[0.35, "bunercoloerdarkertunerk" ],
+			[0.35, "bunercoloerdarkertunerkvineds" ],
+			[0.35, "fallenteetrunkvined1snowed" ],
+			[0.35, "fallentreechockvinedsnowed1" ],
+			[0.35, "fallentreechsnowysocklateunvied" ],
+			[0.35, "fallentreedarksnoweus1unvied" ],
+			[0.35, "fallentreedarkvined1snowera" ],
+			[0.35, "fallentreeorangevined1snowed1" ],
+			[0.35, "fallentreeorasnowysngeunvied" ],
+			[0.35, "fallentreetunkunvnsnowysied" ],
+			[0.35, "forestlogbigbrighternewdatesnower" ],
+			[0.35, "forestlogbigbrightersnodvined" ],
+			[0.35, "highlydetailedcutedtreetrihn2snowysu" ],
+			[0.35, "highlydetailedcutedtreetrihnsnowysu" ],
+			[0.35, "highlydetailedcutedtreetrihnudarersnowys1" ],
+			[0.35, "highlydetailedcutedtreetrihnudasnowysrerk" ],
+			[0.35, "newbigassbarpmfloerd2snowed" ],
+			[0.35, "newbigassbarpmfloerd3snowed" ],
+			[0.35, "newbigassbarpmfloerd4snowed" ],
+			[0.35, "newbigassbarpmfloerdsnowed" ],
+			[0.35, "newhighlydetailedtrunk2snowys" ],
+			[0.35, "newhighlydetailedtrunk3snowys" ],
+			[0.35, "newhighlydetailedtrunk4snowys" ],
+			[0.35, "newhighlydetailedtrunsnowysk" ],
+			[0.35, "rederbigerassertunerkmc" ],
+			[0.35, "rederbigerassertunerkmcvnied1" ],
+			[0.35, "shittymadewoodassbigrunk2snowys" ],
+			[0.35, "shittymadewoodassbigrunk2vinynewsnow" ],
+			[0.35, "shittymadewoodassbigrunk3snowy" ],
+			[0.35, "shittymadewoodassbigrunk3vinysnowynew1" ],
+			[0.35, "shittymadewoodassbigrunk4snowys" ],
+			[0.35, "shittymadewoodassbigrunk4vinnewsnow1y" ],
+			[0.35, "shittymadewoodassbigrunkvinysnowynew1" ],
+			[0.35, "shittymadewoodassbigrunsnowy1k" ],
+			[0.35, "smalllog2imsunbracnhedsnowed3" ],
+			[0.35, "smalllog2imsunbracnhedvniedsnowed2" ],
+			[0.35, "smalllog3imsunbranchedsnowed1" ],
+			[0.35, "smalllog3imsunbranchedvniedsnowed1" ],
+			[0.35, "smalllogimsunbhrancedsnowed2" ],
+			[0.35, "smalllogimsunbhrancedvniedsnowedpng" ],
+			[0.35, "smallsnowlogmcvardark" ],
+			[0.35, "snowbigwoodlog" ],
+			[0.35, "snowbigwoodlog2ims" ],
+			[0.35, "snowbigwoodlog3ims" ],
+			[0.35, "snowbigwoodlogsnowyer1" ],
+			[0.35, "snowlogpack2ims" ],
+			[0.35, "snowlogpackims1" ],
+			[0.35, "snowsmalllogbbrownmcvar" ],
+			[0.35, "snowsmalllogbronwvarmc" ],
+			[0.35, "snowstumperdarkersnow" ],
+			[0.35, "snowwoodlog1ims" ],
+			[0.35, "snowwoodlog1imssnowy1" ],
+			[0.35, "snowwoodlog3ims" ],
+			[0.35, "snowwoodlogims" ],
+			[0.35, "snowwoodlogimssnowyer1" ],
+			[0.35, "snowwoodlogimssnowyer1snowedbri" ],
+			[0.35, "stumpersnowervarermcer" ],
+			[0.35, "woodenbigimsbigbricherbrachedsow" ],
+			[0.35, "woodtreefallcutleaferorangedarkvar2" ],
+			[0.35, "woodtreefallcutleaferorangevar13" ],
+			[0.35, "woodtreefallcutleafervar12" ],
+			[0.35, "woodtreefallcutleaferorangvaree31" ],
+			[0.35, "woodtreefallcutleaferorangedark1snoed" ],
+			[0.35, "woodtreefallcutleafesnoedr1" ],
+			[0.35, "woodtreefallcutleaferorangesnowed1" ],
+			[0.35, "woodtreefallcutleaferorange21snoed" ],
+			[0.35, "snowwoodlog3imsnopwvers" ],
+			[0.35, "snowwoodlog1imsleafvversi" ],
+			[0.35, "woodtreefallcutleafesnoedrun1" ],
+			[0.35, "woodtreefallcutleaferorangesnowedun1" ],
+			[0.35, "woodtreefallcutleaferorangedarkvunar2" ],
+			[0.35, "woodtreefallcutleaferorange2un1snoed" ],
+			[0.35, "leftoverlogpackims2snowver" ],
+			[0.35, "leftoverlogpackims1snowver" ],
+			[0.35, "leftoverlogpackims3snowver" ],
+			[0.35, "brichlogwoodpackerims1snowver" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//misc
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.01, "snowmiscssinhey" ],
+			[0.01, "snownewlostqusihgn" ],
+			[0.01, "snowsignnewpacker" ],
+			[0.01, "snowsignpontwaynew" ],
+			[0.01, "snowshgsketletdeath" ],
+			[0.01, "newconnectedsignimsdigheresnoed1" ],
+			[0.01, "newconnectedsignimstreassnoed1" ],
+			[0.01, "newconnectedsignims1skesnoedlt" ],
+			[0.01, "newway3dshoerimsvardoubeli1snoed" ],
+			[0.01, "newway3dshoerimsvarivarteddiubelsnoed1" ],
+			[0.01, "newconnectedsignimslostsnoed1" ],
+			[0.01, "newway3dshoerimsdoublesnoed1" ],
+			[0.01, "newway3dshoerimsvarivareddouble1snoed1" ],
+			[0.01, "newconnectedsignimshetsnoedy1" ],
+			[0.01, "newconnectedsignims1wayedsnoed" ],
+			[0.01, "newconnectedsignimsdownwed1snoed" ],
+			[0.01, "newconnectedsignimswierdsnoed1" ],
+			[0.01, "newcrosssignims1snoed" ],
+			[0.01, "newroundcirclesignimswaysidesnoed1" ],
+			[0.01, "newwayshoersignims1snoed" ],
+			[0.01, "newroundcirclesignimwaydowns1snofr" ],
+			[0.01, "newroundcirclesignimswhasnoedt1" ],
+			[0.01, "newway3dshoerimsvari1snoed" ],
+			[0.01, "newway3dshoerims1snoed" ],
+			[0.01, "newway3dshoerimsvarivarted1snoed" ],
+			[0.01, "newway3dshoerimsvarivaredsnoefd11" ],
+			[0.01, "destoyredsignwaysdownsnoweed" ],
+			[0.01, "destoyredsignwayssnoed" ],
+			[0.01, "snowdighereginstex" ],
+			[0.01, "snowsignnewpatchdown" ],
+			[0.01, "newtraiblgesignimswaysnows" ],
+			[0.01, "snowsignwaringinimsn" ],
+			[0.01, "newtraiblgesignimssnow" ],
+			[0.01, "newtraiblgesignimswaysdownsnowpng" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//misc2
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.01, "snoedwellims12" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]

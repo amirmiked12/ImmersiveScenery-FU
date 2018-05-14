@@ -1,0 +1,217 @@
+//bush
+[
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "newyelloeluhsbuhdesrt" ],
+			[0.35, "savanagrassims2" ],
+			[0.35, "Savanagrassims1" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//stone
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "desertstoneims1" ],
+			[0.35, "desertstoneims2" ],
+			[0.35, "desertstoneims3" ],
+			[0.35, "desertstoneims4" ],
+			[0.35, "desertstoneims5" ],
+			[0.35, "desertstoneims6" ],
+			[0.35, "desertstoneims7" ],
+			[0.35, "newbigasstoneoak2mdesrt" ],
+			[0.35, "newbiggassstonejd1desrt" ],
+			[0.35, "newboggassbolier1desrt" ],
+			[0.35, "newhdbggasstoneims1desert" ],
+			[0.35, "newrokcberoikd1destt" ],
+			[0.35, "newstoneackims3desrt" ],
+			[0.35, "newstonemakeerms2desrt" ],
+			[0.35, "newstonesmakkimns1dest" ],
+			[0.35, "nwebigassstonroc2desrt" ],
+			[0.35, "stonepackrokcbigimsdesetu" ],
+			[0.35, "stonepacktwopack1desrt" ],
+			[0.35, "stonevariationmcdarkdest" ],
+			[0.35, "stonevariondarkk2deset" ],
+			[0.35, "desertskullnew1" ],
+			[0.35, "newanimalstonedesertims" ],
+			[0.35, "newdesertbonepackerims" ],
+			[0.35, "newzenrocjims5desert" ],
+			[0.35, "newzenrockim3desrt" ],
+			[0.35, "newzenrockimsdesrt4" ],
+			[0.35, "newzenrokims2desrt" ],
+			[0.35, "newzenrokimsdesrt1" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//wood
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:common",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.35, "bigasstrunkmcforesdesertt" ],
+			[0.35, "desertbigwoodtrunk1" ],
+			[0.35, "desertbigwoodtrunk2" ],
+			[0.35, "desertsmalllogims1" ],
+			[0.35, "fallentreeorangeunvieddesert" ],
+			[0.35, "highlydetailedcutedtreetrihnudest" ],
+			[0.35, "newbigassbarpmfloerddesert" ],
+			[0.35, "newhighlydetailedtrunkdesert" ],
+			[0.35, "leftoverlogpackims4" ],
+			[0.35, "newmadelogpackims1desertpng" ],
+			[0.35, "shittymadewoodassbigrunkdesrt" ],
+			[0.35, "smalllog2imsunbracnheddesert" ],
+			[0.35, "smalllog3imsdesrt" ],
+			[0.35, "smallogmcvaion2desrt" ],
+			[0.35, "smallstumpmcvarion2desert" ],
+			[0.35, "woodtreefallcutleaferorangedesrts1" ],
+			[0.35, "woodtreefallcutleaferorangedesrtss1" ],
+			[0.35, "woodtreefallcutleaferorangedesrtsun1" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//misc
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.01, "newsignwaringnormal" ],
+			[0.01, "newtraiblgesignims" ],
+			[0.01, "newtraiblgesignimsways" ],
+			[0.01, "newtraiblgesignimswaysdown" ],
+			[0.01, "noramlsigndighereretext" ],
+			[0.01, "noramplplacesignupdownoms" ],
+			[0.01, "speacialsignhetwood" ],
+			[0.01, "speacialsignwood1" ],
+			[0.01, "speacialsignwood2" ],
+			[0.01, "speacialsignwooddeath" ],
+			[0.01, "speacialsignwoodflorn" ],
+			[0.01, "newconnectedsignims1skelt" ],
+			[0.01, "newconnectedsignimstreas1" ],
+			[0.01, "newconnectedsignimsdighere1" ],
+			[0.01, "newconnectedsignimslost1" ],
+			[0.01, "newconnectedsignimshety1" ],
+			[0.01, "newconnectedsignims1wayed" ],
+			[0.01, "newconnectedsignimsdownwed1" ],
+			[0.01, "newconnectedsignimswierd1" ],
+			[0.01, "newroundcirclesignimswayside1" ],
+			[0.01, "newroundcirclesignimwaydowns1" ],
+			[0.01, "newroundcirclesignimswhat1" ],
+			[0.01, "destoyredsignways" ],
+			[0.01, "destoyredsignwaysdown" ],
+			[0.01, "newway3dshoerimsvardoubeli1" ],
+			[0.01, "newway3dshoerimsdouble1" ],
+			[0.01, "newway3dshoerimsvarivarteddiubel1" ],
+			[0.01, "newway3dshoerimsvarivareddouble11" ],
+			[0.01, "newwayshoersignimsvared1" ],
+			[0.01, "newcrosssignims1" ],
+			[0.01, "newway3dshoerimsvari1" ],
+			[0.01, "newwayshoersignims1" ],
+			[0.01, "newway3dshoerims1" ],
+			[0.01, "newway3dshoerimsvarivarted1" ],
+			[0.01, "newway3dshoerimsvarivared11" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//misc2
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.04, "newwoodenpolegarnde" ],
+			[0.04, "woodenpilewiregarnde" ],
+			[0.03, "neduoblebigekcepoleim" ],
+			[0.03, "newfirstdoublepoleims" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//light
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.01, "normalstreetlampims" ],
+			[0.01, "newrandomlamnp" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	},
+	
+	//misc3
+	
+	{"op":"add","path":"/surfacePlaceables/items/-","value":{
+        "mode" : "floor",
+        "priority" : 1.0,
+        "variants" : 1,
+        "distribution" : "/biomes/distributions.config:veryRare",
+
+        "type" : "object",
+        "objectSets" : [
+          {
+            "pool" : [
+			[0.01, "newcavedbedwaterwellims" ]],
+            "parameters" : { }
+          }
+        ]
+      }
+	}
+]
